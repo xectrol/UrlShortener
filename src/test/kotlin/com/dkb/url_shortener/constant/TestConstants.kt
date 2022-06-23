@@ -2,7 +2,7 @@ package com.dkb.url_shortener.constant
 
 import com.dkb.url_shortener.controller.UrlController
 import com.dkb.url_shortener.domain.Url
-import com.dkb.url_shortener.service.exception.UrlNotFoundException
+import com.dkb.url_shortener.exception.UrlNotFoundException
 
 class TestConstants {
 

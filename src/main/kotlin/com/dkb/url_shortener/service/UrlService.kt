@@ -3,7 +3,7 @@ package com.dkb.url_shortener.service
 import com.dkb.url_shortener.controller.UrlController
 import com.dkb.url_shortener.domain.Url
 import com.dkb.url_shortener.repository.UrlRedisRepository
-import com.dkb.url_shortener.service.exception.UrlNotFoundException
+import com.dkb.url_shortener.exception.UrlNotFoundException
 import com.google.common.hash.Hashing
 import mu.KotlinLogging
 import org.springframework.stereotype.Service

@@ -1,6 +1,5 @@
-package com.dkb.url_shortener.controller.exception
+package com.dkb.url_shortener.exception
 
-import com.dkb.url_shortener.service.exception.UrlNotFoundException
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.ExceptionHandler
 import org.springframework.http.ResponseEntity

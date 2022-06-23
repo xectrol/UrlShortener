@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This projects shows how to generate uniq hash for given url 
+This projects shows how to generate unique hash for given url 
 
-The code is implemented using Kotlin, but it's easy for Java developers to understand as well.
+The code is implemented by using Kotlin, but it's easy for Java developers to understand as well.
 
 
 ## How to run

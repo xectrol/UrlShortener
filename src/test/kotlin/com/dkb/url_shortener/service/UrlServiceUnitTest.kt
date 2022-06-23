@@ -11,7 +11,7 @@ import org.springframework.test.context.junit4.SpringRunner
 import org.junit.runner.RunWith
 import java.util.*
 import com.dkb.url_shortener.constant.TestConstants
-import com.dkb.url_shortener.service.exception.UrlNotFoundException
+import com.dkb.url_shortener.exception.UrlNotFoundException
 import org.junit.Assert.assertThrows
 
 
